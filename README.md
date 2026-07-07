@@ -29,8 +29,8 @@ My GitHub profile is organized as an **engineering portfolio**, not only a code 
 | **Research & Testbed Experience** | OpenAirInterface, LTE/5G RAN-core integration, BLE performance evaluation |
 
 </div>
-
 ---
+````markdown
 ## System-Level Wireless Engineering Workflow
 
 ```mermaid
