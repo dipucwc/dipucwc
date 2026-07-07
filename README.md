@@ -55,33 +55,18 @@ flowchart LR
 **Senior System Specification Engineer — RF Architecture & Specification**  
 **Apr 2023 – May 2026**
 
-- Authored **RF/PHY algorithm and system specifications** for **Beamforming, Beamforming Calibration, Synchronization & Timing, Carrier Configuration, Beam Management, and DPD-related RF behavior**.
-- Developed **feature-level algorithm procedures** across CP1/CP2/CP3 release workflows, connecting RF architecture, software behavior, hardware constraints, and verification needs.
-- Performed **MATLAB-based PHY/RF algorithm simulation and analysis** for calibration timing, signal handling, BF/BFC behavior, and robustness evaluation.
-- Supported cross-functional alignment across **RF, HW, FW, test, and architecture teams** through system-level reviews, requirement traceability, and issue analysis.
-- Contributed to customer-driven RF algorithm deliverables, including **BF calibration enhancement, carrier-configuration validation, UL IQ capture timing, CAZAC/Zadoff-Chu calibration updates, and symbol-insertion timing control**.
 
 **System Specification Engineer — RF Architecture & Specification**  
 **Sep 2022 – Mar 2023**
-
-- Co-authored **5G NR BF/BFC algorithm specifications** covering antenna-array calibration, calibration weight computation, and phase/amplitude correction across TDD/FDD and massive-MIMO radio configurations.
-- Contributed to **beam management** specification topics, including beam selection, switching, and refinement.
 
 ### Nokia Bell Labs Collaboration — Oulu, Finland
 
 **Embedded RF Workflow / Hardware Validation Collaboration**  
 **Jul 2023 – Jun 2024**
 
-- Worked with embedded RF workflows involving **signal insertion, signal capture, calibration execution, Linux-based tool usage, SSH/SCP, and RF configuration/control interfaces**.
-- Implemented and analyzed **MATLAB-based offline UL/DL calibration weight computation** as part of RF calibration understanding and validation.
-
 ### Center for Wireless Communications, University of Oulu — Finland
 
 **Researcher / Research Assistant / Research Intern**
-
-- Deployed and validated **OpenAirInterface-based LTE/5G testbed workflows**, including eNB/gNB/UE/core setup, CMake build flow, RAN-core connectivity, and Wireshark-based S1AP/NAS signaling analysis.
-- Built analytical and Monte Carlo **MATLAB PHY simulation models** for BLE 4 / BLE 5 coded PHY performance, PER, range, power, and energy-efficiency evaluation.
-- Developed MATLAB/Python simulation models for **multi-connectivity and IoT wireless performance analysis**.
 
 ---
 
