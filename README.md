@@ -31,34 +31,25 @@ My GitHub profile is organized as an **engineering portfolio**, not only a code 
 </div>
 
 ---
-
-## Engineering Value Chain
-
-```mermaid
-flowchart LR
-    A[3GPP / RF Requirement] --> B[System Architecture]
-    B --> C[PHY/RF Algorithm]
-    C --> D[MATLAB / Python Model]
-    D --> E[Simulation Results]
-    E --> F[BER / EVM / SINR / Throughput]
-    F --> G[C/C++ Implementation Concept]
-    G --> H[Validation Workflow]
-    H --> I[Technical Report]
-```
-## System-Level Wireless Workflow
+## System-Level Wireless Engineering Workflow
 
 ```mermaid
 flowchart LR
-    A[3GPP / System Requirement] --> B[RF/PHY Architecture]
+    A[3GPP / System Requirement] --> B[RF / PHY Architecture]
     B --> C[Algorithm Specification]
-    C --> D[MATLAB / Python Model]
+    C --> D[MATLAB / Python Modeling]
     D --> E[Link-Level Simulation]
-    E --> F[Metrics: BER, EVM, SINR, ACLR, Throughput]
-    F --> G[C/C++ Implementation Concept]
-    G --> H[Test / Validation Workflow]
-    H --> I[Root-Cause Analysis & Requirement Update]
-```
+    E --> F[Performance Metrics]
+    F --> G[C / C++ Implementation Concept]
+    G --> H[Test & Validation Workflow]
+    H --> I[Root-Cause Analysis]
+    I --> J[Requirement / Specification Update]
 
+    F --> F1[BER]
+    F --> F2[EVM]
+    F --> F3[SINR]
+    F --> F4[ACLR]
+    F --> F5[Throughput]
 ---
 
 ## Professional Experience Highlights
