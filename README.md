@@ -45,10 +45,23 @@ flowchart LR
     G --> H[Validation Workflow]
     H --> I[Technical Report]
 ```
+## System-Level Wireless Workflow
+
+```mermaid
+flowchart LR
+    A[3GPP / System Requirement] --> B[RF/PHY Architecture]
+    B --> C[Algorithm Specification]
+    C --> D[MATLAB / Python Model]
+    D --> E[Link-Level Simulation]
+    E --> F[Metrics: BER, EVM, SINR, ACLR, Throughput]
+    F --> G[C/C++ Implementation Concept]
+    G --> H[Test / Validation Workflow]
+    H --> I[Root-Cause Analysis & Requirement Update]
+```
 
 ---
 
-## Professional Technical Background
+## Professional Experience Highlights
 
 ### Nokia Solutions and Networks Oy — Oulu, Finland
 
@@ -153,6 +166,22 @@ flowchart LR
 </div>
 
 ---
+---
+
+## Selected Project Matrix
+
+| Repository | Main Domain | Algorithms / Methods | Tools | Output |
+|---|---|---|---|---|
+| [5G NR / 6G Wireless Engineering Portfolio](https://github.com/dipucwc/5G-NR-6G-Wireless-Engineering-Portfolio) | Wireless systems | MIMO, beamforming, link budget, channel modeling | MATLAB, Python, C | Reports, simulations, figures |
+| [PHY Algorithm Design & Firmware Implementation](https://github.com/dipucwc/PHY-Algorithm-Design-Firmware-Implementation) | PHY/DSP | OFDM sync, LS/MMSE, ZF/MMSE, AMC, Viterbi, Q15 | MATLAB, Python, C/C++ | Link-level models, firmware concepts |
+| [5G RF Architecture, Specification & Verification](https://github.com/dipucwc/5G-RF-Architecture-Specification-Verification) | RF system architecture | BF/BFC, timing, carrier config, IQ verification | MATLAB, Python, C | Specification-style validation |
+| [RF / Microwave Circuit Design Portfolio](https://github.com/dipucwc/RF-Microwave-Circuit-Design-Portfolio) | RF/microwave | S-parameters, matching, NF, stability, IP3, EVM | ADS, Cadence, KiCad | Circuit studies and analysis |
+| [Wireless System Simulation & Validation](https://github.com/dipucwc/wireless-system-simulation-validation) | Simulation validation | Beam sweeping, beam selection, wireless testing workflow | MATLAB, Python | Simulation cases and analysis |
+| [BLE Energy Efficiency Evaluation](https://github.com/dipucwc/Energy-Efficiency-Evaluation-of-Bluetooth-5-BLE-5-Technology) | BLE / IoT | PER, range, energy, channel models | MATLAB | Thesis-related evaluation |
+| [Multi-Connectivity in IoT Network](https://github.com/dipucwc/Multi-Connectivity-in-IoT-Network) | IoT connectivity | Throughput, latency, packet loss, reliability | MATLAB / Python | Performance evaluation |
+
+---
+
 
 ## Recommended Pinned Repositories
 
@@ -303,7 +332,35 @@ I am open to opportunities in:
 **Work authorization:** EU permanent residence; no sponsorship required within the EU
 
 ---
+## Learning and Research Interests
 
+- 6G PHY and AI-native radio access
+- NTN and satellite wireless receiver algorithms
+- MIMO-OFDM link-level and system-level simulation
+- O-RAN / AI-RAN architecture and validation workflows
+- RF impairment modeling, PA linearization, and DPD
+- OTA/MPAC chamber validation methodology
+- Algorithm-to-firmware implementation for RF/PHY systems
+---
+---
+
+## Profile Roadmap
+
+- Expand each portfolio repository with complete technical reports, equations, simulation workflow, and reproducible results.
+- Add MATLAB and Python verification scripts for every wireless/RF project.
+- Add C/C++ algorithm-to-firmware examples for selected PHY modules.
+- Add result figures: BER/EVM/SINR/throughput/ACLR/capacity plots.
+- Keep repositories aligned with Wireless System Engineer, RF System Engineer, PHY Algorithm Engineer, and Test & Validation roles.
+---
+
+### Focused on practical RF/PHY engineering: from algorithm specification to simulation, verification, and implementation.
+
+<img src="https://img.shields.io/badge/Wireless%20Systems-5G%20NR%20%7C%206G%20%7C%20LTE-1E90FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RF%2FPHY-BF%2FBFC%20%7C%20DPD%20%7C%20MIMO-7B68EE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Simulation-MATLAB%20%7C%20Python%20%7C%20C%2B%2B-228B22?style=for-the-badge" />
+
+</div>
+---
 <div align="center">
 
 ### Specification is strongest when it is connected to simulation, validation, and measurable RF/PHY performance.
