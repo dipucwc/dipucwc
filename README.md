@@ -1,63 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:0052CC,100:00C2FF&height=265&section=header&text=Md%20Moklesur%20Rahman&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=5G%20NR%20%7C%206G%20Wireless%20Systems%20%7C%20RF%2FPHY%20Algorithms%20%7C%20MIMO-OFDM%20%7C%20Beamforming%20Calibration&descSize=15&descAlignY=58" alt="Md Moklesur Rahman GitHub profile cover" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0052CC,100:00C2FF&height=245&section=header&text=Md%20Moklesur%20Rahman&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=5G%20NR%20%7C%206G%20Wireless%20Systems%20%7C%20RF%2FPHY%20Algorithms%20%7C%20MIMO-OFDM%20%7C%20Beamforming%20Calibration&descSize=15&descAlignY=56" alt="Md Moklesur Rahman GitHub profile banner" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-md--moklesur--rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-moklesur-rahman-65a63962/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Moklesur%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-moklesur-rahman-65a63962/)
 [![GitHub](https://img.shields.io/badge/GitHub-dipucwc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipucwc)
-[![Email](https://img.shields.io/badge/Email-Contact-0052CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moklesur.eee@gmail.com)
+[![Email](https://img.shields.io/badge/Email-moklesur.eee%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moklesur.eee@gmail.com)
 [![Location](https://img.shields.io/badge/Oulu-Finland-00A3FF?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=980&lines=Former+Senior+System+Specification+Engineer+%7C+Nokia+Solutions+and+Networks+Oy;RF%2FPHY+Algorithm+Specification+%E2%86%92+MATLAB%2FPython+Simulation+%E2%86%92+C%2FC%2B%2B+Validation;Massive+MIMO+%7C+OFDM+%7C+BF%2FBFC+%7C+DPD+%7C+Channel+Estimation+%7C+RF+Architecture;Open+Wireless+Engineering+Portfolio+for+5G+NR%2C+6G%2C+RF%2C+PHY%2C+and+Test+Validation" alt="Typing animation" />
+<h3>Wireless/RF/PHY System Engineer | 5G NR & 6G | Massive MIMO | Beamforming Calibration | MATLAB · Python · C/C++</h3>
 
 </div>
 
 ---
 
-## 👋 About Me
+## Executive Profile
 
-I am a **Wireless/RF/PHY System Engineer** with **7+ years of combined industry and research experience** across **5G/LTE radio systems, RF/PHY algorithm specification, signal-processing simulation, massive-MIMO radio development, and wireless test/validation workflows**.
+I am a **Wireless/RF/PHY System Engineer** with **7+ years of industry and research experience** across **5G/LTE radio systems, RF/PHY algorithm specification, signal-processing simulation, massive-MIMO radio development, and wireless validation workflows**.
 
-My core strength is connecting the complete engineering chain:
-
-> **3GPP / RF requirement → system architecture → PHY/RF algorithm → MATLAB/Python model → C/C++ implementation concept → verification metrics → technical report**
-
-Previously, I worked as a **Senior System Specification Engineer — RF Architecture & Specification** at **Nokia Solutions and Networks Oy**, where my work covered **Beamforming, Beamforming Calibration, Synchronization & Timing, Carrier Configuration, DPD-related RF behavior, Beam Management, RF architecture, feature specification, MATLAB-based algorithm analysis, and cross-functional RF/HW/FW/test alignment**.
-
-I use this GitHub as an **open wireless-engineering portfolio**, focusing on reproducible project structures, technical reports, simulation code, algorithm explanations, and validation results for roles such as:
+My GitHub profile is organized as an **engineering portfolio**, not only a code archive. Each project is designed to show the connection between requirement analysis, algorithm design, simulation, implementation concept, validation metrics, and technical documentation.
 
 <div align="center">
 
-| Wireless System Engineer | RF System Engineer | PHY Algorithm Engineer |
-|---|---|---|
-| 5G/6G Research Engineer | RF Test & Validation Engineer | Algorithm-to-Firmware Engineer |
+| Core Positioning | Technical Focus |
+|---|---|
+| **5G NR / 6G Wireless Systems** | RF/PHY algorithms, massive MIMO, OFDM, beamforming, synchronization |
+| **RF Architecture & Specification** | BF/BFC, carrier configuration, timing, DPD behavior, IQ capture, validation flow |
+| **Simulation & Validation** | MATLAB, Python, C/C++, BER, EVM, SINR, throughput, spectral efficiency |
+| **Research & Testbed Experience** | OpenAirInterface, LTE/5G RAN-core integration, BLE performance evaluation |
 
 </div>
 
 ---
 
-## 🧠 Engineering Identity
+## Engineering Value Chain
 
-```text
-Wireless System Design
-├── 5G NR / LTE / 6G concepts
-├── RF/PHY algorithm specification
-├── Massive MIMO, beamforming, BF calibration
-├── OFDM/OFDMA synchronization and channel estimation
-├── DPD / PA linearization / RF impairment analysis
-├── MATLAB, Python, C/C++ simulation and validation
-├── RF architecture, carrier configuration, timing, IQ capture
-└── Technical documentation, verification flow, root-cause analysis
+```mermaid
+flowchart LR
+    A[3GPP / RF Requirement] --> B[System Architecture]
+    B --> C[PHY/RF Algorithm]
+    C --> D[MATLAB / Python Model]
+    D --> E[Simulation Results]
+    E --> F[BER / EVM / SINR / Throughput]
+    F --> G[C/C++ Implementation Concept]
+    G --> H[Validation Workflow]
+    H --> I[Technical Report]
 ```
 
 ---
 
-## 🔬 Main Technical Domains
+## Professional Technical Background
+
+### Nokia Solutions and Networks Oy — Oulu, Finland
+
+**Senior System Specification Engineer — RF Architecture & Specification**  
+**Apr 2023 – May 2026**
+
+- Authored **RF/PHY algorithm and system specifications** for **Beamforming, Beamforming Calibration, Synchronization & Timing, Carrier Configuration, Beam Management, and DPD-related RF behavior**.
+- Developed **feature-level algorithm procedures** across CP1/CP2/CP3 release workflows, connecting RF architecture, software behavior, hardware constraints, and verification needs.
+- Performed **MATLAB-based PHY/RF algorithm simulation and analysis** for calibration timing, signal handling, BF/BFC behavior, and robustness evaluation.
+- Supported cross-functional alignment across **RF, HW, FW, test, and architecture teams** through system-level reviews, requirement traceability, and issue analysis.
+- Contributed to customer-driven RF algorithm deliverables, including **BF calibration enhancement, carrier-configuration validation, UL IQ capture timing, CAZAC/Zadoff-Chu calibration updates, and symbol-insertion timing control**.
+
+**System Specification Engineer — RF Architecture & Specification**  
+**Sep 2022 – Mar 2023**
+
+- Co-authored **5G NR BF/BFC algorithm specifications** covering antenna-array calibration, calibration weight computation, and phase/amplitude correction across TDD/FDD and massive-MIMO radio configurations.
+- Contributed to **beam management** specification topics, including beam selection, switching, and refinement.
+
+### Nokia Bell Labs Collaboration — Oulu, Finland
+
+**Embedded RF Workflow / Hardware Validation Collaboration**  
+**Jul 2023 – Jun 2024**
+
+- Worked with embedded RF workflows involving **signal insertion, signal capture, calibration execution, Linux-based tool usage, SSH/SCP, and RF configuration/control interfaces**.
+- Implemented and analyzed **MATLAB-based offline UL/DL calibration weight computation** as part of RF calibration understanding and validation.
+
+### Center for Wireless Communications, University of Oulu — Finland
+
+**Researcher / Research Assistant / Research Intern**
+
+- Deployed and validated **OpenAirInterface-based LTE/5G testbed workflows**, including eNB/gNB/UE/core setup, CMake build flow, RAN-core connectivity, and Wireshark-based S1AP/NAS signaling analysis.
+- Built analytical and Monte Carlo **MATLAB PHY simulation models** for BLE 4 / BLE 5 coded PHY performance, PER, range, power, and energy-efficiency evaluation.
+- Developed MATLAB/Python simulation models for **multi-connectivity and IoT wireless performance analysis**.
+
+---
+
+## Main Technical Domains
 
 <table>
 <tr>
 <td width="50%">
 
-### 📡 RF / PHY / 5G NR
+### RF / PHY / 5G NR
 
 - 5G NR, LTE, Wi-Fi concepts
 - Massive MIMO and OFDM/OFDMA
@@ -65,51 +99,51 @@ Wireless System Design
 - Synchronization and Timing
 - Carrier Configuration and RF constraints
 - Channel Estimation: LS, MMSE, Wiener-MMSE
-- Equalization: ZF, MMSE
-- Link Adaptation / AMC
+- Equalization: ZF and MMSE
+- Link Adaptation and AMC
 - BER, EVM, SINR, throughput, spectral efficiency
 
 </td>
 <td width="50%">
 
-### 🛰️ RF Architecture / Validation
+### RF Architecture / Verification
 
 - RF/PHY system specification
 - 3GPP-inspired requirement analysis
-- DPD / PA nonlinearity / RF linearity concepts
+- DPD and PA linearization concepts
 - TX/RX processing chains and TRX architecture
-- IQ capture timing and validation flow
-- Root-cause analysis and verification workflow
+- IQ capture timing and validation workflow
+- Root-cause analysis and issue debugging
 - ADS / Cadence / RF circuit analysis concepts
-- VNA, signal analyzer, oscilloscope knowledge
+- VNA, signal analyzer, and oscilloscope knowledge
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💻 Simulation / Programming
+### Simulation / Programming
 
 - MATLAB for DSP and PHY simulation
-- Python for modeling, plotting, automation
-- C/C++ for algorithm-to-firmware style implementation
+- Python for modeling, plotting, and automation
+- C/C++ for algorithm-to-firmware implementation concepts
 - Shell/Bash and Linux workflows
 - CMake, Git, VS Code
-- Wireshark for signaling/debug analysis
-- OpenAirInterface build/deployment experience
+- Wireshark for signaling analysis
+- OpenAirInterface build and deployment experience
 
 </td>
 <td width="50%">
 
-### 🧩 Engineering Process
+### Engineering Process
 
 - Feature definition and feasibility analysis
 - CFAM-style algorithm/system specification
 - Architecture review and requirement traceability
-- Cross-functional HW/RF/FW/test alignment
+- HW/RF/FW/test alignment
 - Technical reports with equations and result analysis
 - Release-oriented documentation discipline
-- Verification, validation, and issue debugging
+- Verification, validation, and RCA workflow
 
 </td>
 </tr>
@@ -117,41 +151,25 @@ Wireless System Design
 
 ---
 
-## 🧭 Specification-to-Simulation Workflow
-
-```mermaid
-flowchart LR
-    A[3GPP / RF Requirement] --> B[System Architecture]
-    B --> C[PHY/RF Algorithm Definition]
-    C --> D[MATLAB / Python Model]
-    D --> E[Simulation Results]
-    E --> F[BER / EVM / SINR / Throughput]
-    F --> G[C/C++ Algorithm Concept]
-    G --> H[Test / Validation Flow]
-    H --> I[Technical Report + GitHub Portfolio]
-```
-
----
-
-## 🚀 Featured Engineering Portfolio
+## Featured Engineering Portfolio
 
 <div align="center">
 
 | Repository | Technical Focus | What It Demonstrates |
 |---|---|---|
-| [`wireless-system-simulation-validation`](https://github.com/dipucwc/wireless-system-simulation-validation) | MATLAB/Python wireless simulation and validation | Practical simulation workflow for 5G NR, MIMO-OFDM, RF/PHY algorithms, synchronization, channel estimation, EVM, link budget |
-| [`5G-NR-6G-Wireless-Engineering-Portfolio`](https://github.com/dipucwc/5G-NR-6G-Wireless-Engineering-Portfolio) | 5G NR, 6G, RF, channel modeling, MIMO, beamforming | Broad wireless-engineering portfolio with MATLAB, Python, and C implementations |
-| [`PHY-Algorithm-Design-Firmware-Implementation`](https://github.com/dipucwc/PHY-Algorithm-Design-Firmware-Implementation) | OFDM sync, MIMO-OFDM, channel estimation, equalization, AMC | Algorithm-to-firmware thinking: MATLAB/Python model, C/C++ concept, validation metrics |
-| [`5G-RF-Architecture-Specification-Verification`](https://github.com/dipucwc/5G-RF-Architecture-Specification-Verification) | RF architecture, specification, verification, RCA | Specification-driven RF architecture and verification case-study style |
-| [`RF-Microwave-Circuit-Design-Portfolio`](https://github.com/dipucwc/RF-Microwave-Circuit-Design-Portfolio) | ADS, Cadence, S-parameters, matching, ACPR/EVM/IP3 | RF/microwave circuit analysis and RF-performance engineering |
-| [`Energy-Efficiency-Evaluation-of-Bluetooth-5-BLE-5-Technology`](https://github.com/dipucwc/Energy-Efficiency-Evaluation-of-Bluetooth-5-BLE-5-Technology) | BLE 5 coded PHY, energy efficiency, range, PER | Research-based MATLAB analysis and measurement-aligned wireless evaluation |
-| [`Multi-Connectivity-in-IoT-Network`](https://github.com/dipucwc/Multi-Connectivity-in-IoT-Network) | IoT multi-connectivity simulation | Wireless connectivity performance analysis using MATLAB |
+| [`wireless-system-simulation-validation`](https://github.com/dipucwc/wireless-system-simulation-validation) | MATLAB/Python wireless simulation and validation | Practical RF/PHY simulation workflow, result generation, EVM/SINR/throughput analysis |
+| [`5G-NR-6G-Wireless-Engineering-Portfolio`](https://github.com/dipucwc/5G-NR-6G-Wireless-Engineering-Portfolio) | 5G NR, 6G, RF, channel modeling, beamforming | Broad wireless-engineering portfolio with MATLAB, Python, and C structure |
+| [`PHY-Algorithm-Design-Firmware-Implementation`](https://github.com/dipucwc/PHY-Algorithm-Design-Firmware-Implementation) | OFDM sync, MIMO-OFDM, channel estimation, equalization, AMC | Algorithm-to-firmware thinking with model, implementation concept, and validation metrics |
+| [`5G-RF-Architecture-Specification-Verification`](https://github.com/dipucwc/5G-RF-Architecture-Specification-Verification) | RF architecture, specification, verification, RCA | Specification-driven RF architecture and validation case-study structure |
+| [`RF-Microwave-Circuit-Design-Portfolio`](https://github.com/dipucwc/RF-Microwave-Circuit-Design-Portfolio) | ADS, Cadence, S-parameters, matching, ACPR/EVM/IP3 | RF/microwave circuit and RF-performance engineering portfolio |
+| [`Energy-Efficiency-Evaluation-of-Bluetooth-5-BLE-5-Technology`](https://github.com/dipucwc/Energy-Efficiency-Evaluation-of-Bluetooth-5-BLE-5-Technology) | BLE 5 coded PHY, energy, PER, range | Research-based wireless evaluation with MATLAB and measurement-aligned modeling |
+| [`Multi-Connectivity-in-IoT-Network`](https://github.com/dipucwc/Multi-Connectivity-in-IoT-Network) | IoT multi-connectivity simulation | Wireless connectivity performance analysis using MATLAB/Python concepts |
 
 </div>
 
 ---
 
-## ⭐ Recommended Pinned Repositories
+## Recommended Pinned Repositories
 
 <div align="center">
 
@@ -184,7 +202,7 @@ flowchart LR
 
 ---
 
-## 🧮 Algorithms & Methods I Work With
+## Algorithms & Methods
 
 <div align="center">
 
@@ -192,8 +210,8 @@ flowchart LR
 |---|---|
 | **OFDM / MIMO** | FFT/IFFT, CP insertion/removal, pilot mapping, MIMO channel matrix modeling, ZF/MMSE detection |
 | **Channel Estimation** | LS, MMSE, Wiener-MMSE, pilot-aided estimation, interpolation, NMSE analysis |
-| **Beamforming** | Array response, complex weights, phase/amplitude mismatch, BF/BFC calibration, CAZAC/Zadoff-Chu based calibration concepts |
-| **RF Impairments** | EVM, ACLR/ACPR, IQ imbalance, phase noise concept, PA nonlinearity, DPD behavior |
+| **Beamforming** | Array response, complex weights, phase/amplitude mismatch, BF/BFC calibration, CAZAC/Zadoff-Chu calibration concepts |
+| **RF Impairments** | EVM, ACLR/ACPR, IQ imbalance, phase-noise concepts, PA nonlinearity, DPD behavior |
 | **Link Metrics** | BER, PER, EVM, SINR, throughput, spectral efficiency, capacity |
 | **Validation** | MATLAB/Python reference model, C/C++ implementation concept, regression checks, result plots, technical report |
 
@@ -201,11 +219,11 @@ flowchart LR
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <div align="center">
 
-### Programming & Simulation
+### Programming, Simulation & Firmware
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-DSP%20%7C%20PHY%20Simulation-0076A8?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Modeling%20%7C%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -213,11 +231,11 @@ flowchart LR
 ![C++](https://img.shields.io/badge/C%2B%2B-Algorithm%20Implementation-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell%2FBash-Linux%20Workflow-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Wireless / RF / Test
+### Wireless, RF & Test
 
 ![5G NR](https://img.shields.io/badge/5G%20NR-RF%2FPHY%20Systems-0052CC?style=for-the-badge)
 ![LTE](https://img.shields.io/badge/LTE-Radio%20Systems-0066CC?style=for-the-badge)
-![MIMO](https://img.shields.io/badge/Massive%20MIMO-Beamforming-00A3FF?style=for-the-badge)
+![Massive MIMO](https://img.shields.io/badge/Massive%20MIMO-Beamforming-00A3FF?style=for-the-badge)
 ![O-RAN](https://img.shields.io/badge/O--RAN-Fronthaul%20Concepts-00C2FF?style=for-the-badge)
 ![DPD](https://img.shields.io/badge/DPD-PA%20Linearization-2F80ED?style=for-the-badge)
 ![ADS](https://img.shields.io/badge/Keysight%20ADS-RF%20Circuit%20Analysis-FF9900?style=for-the-badge)
@@ -235,45 +253,41 @@ flowchart LR
 
 ---
 
-## 📌 Selected Experience Highlights
+## Selected Engineering Highlights
 
 - **RF/PHY algorithm specification:** BF/BFC, Synchronization & Timing, Carrier Configuration, Beam Management, DPD-related RF behavior.
-- **Architecture and feature definition:** functional block responsibilities, algorithm procedure workflows, interface alignment, CP1/CP2/CP3 release-oriented work.
+- **Architecture and feature definition:** functional block responsibilities, algorithm procedure workflows, interface alignment, and CP1/CP2/CP3 release-oriented work.
 - **Simulation and validation:** MATLAB-based PHY/RF modeling, algorithm robustness analysis, calibration timing, RF-chain mismatch, timing alignment, and performance metrics.
-- **Cross-functional engineering:** HW/RF/FW/test coordination, system-level reviews, root-cause analysis, customer-driven issue investigation.
+- **Cross-functional engineering:** RF/HW/FW/test coordination, system-level reviews, root-cause analysis, and customer-driven issue investigation.
 - **Research and testbed work:** OpenAirInterface LTE/5G testbed deployment, S1AP/NAS signaling analysis with Wireshark, BLE performance research with MATLAB and lab validation.
-- **Embedded/RF workflow:** Linux, SSH/SCP, CLI/HW control concepts, UL/DL calibration weight computation, IQ capture timing, signal insertion/capture workflow.
+- **Embedded/RF workflow:** Linux, SSH/SCP, CLI/HW control concepts, UL/DL calibration weight computation, IQ capture timing, and signal insertion/capture workflow.
 
 ---
 
-## 📚 Publication & Research Background
+## Publication & Research Background
 
 **Performance Evaluation of Bluetooth Low Energy Technology Under Interference**  
 H. Karvonen, K. Mikhaylov, D. Acharya, and **M. M. Rahman**, 2018.  
-Project background: BLE 4 / BLE 5 coded PHY, interference analysis, PER, range, energy efficiency, analytical + MATLAB + measurement-aligned validation.
+Research area: BLE 4 / BLE 5 coded PHY, interference analysis, PER, range, energy efficiency, analytical modeling, MATLAB simulation, and measurement-aligned validation.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dipucwc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipucwc&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br><br>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipucwc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dipucwc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipucwc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
 
 ---
 
-## 🎯 Current Portfolio Direction
+## Current Portfolio Direction
 
 ```text
 Goal:
-Build a strong, engineering-grade public portfolio for 5G NR / 6G / RF / PHY roles.
+Build an engineering-grade public portfolio for 5G NR, 6G, RF, PHY, and wireless validation roles.
 
 Focus:
 1. MATLAB/Python/C simulation projects
@@ -286,7 +300,7 @@ Focus:
 
 ---
 
-## 🤝 Open to Roles / Collaboration
+## Open to Roles / Collaboration
 
 I am open to opportunities in:
 
@@ -300,15 +314,15 @@ I am open to opportunities in:
 - RAN / O-RAN / AI-RAN related engineering
 
 **Location:** Oulu, Finland  
-**Mobility:** Open to roles in Finland and Europe  
-**Work authorization:** EU permanent residence; no sponsorship required within the EU  
+**Mobility:** Finland and Europe  
+**Work authorization:** EU permanent residence; no sponsorship required within the EU
 
 ---
 
 <div align="center">
 
-### “Specification is strongest when it is connected to simulation, validation, and measurable RF/PHY performance.”
+### Specification is strongest when it is connected to simulation, validation, and measurable RF/PHY performance.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,45:0052CC,100:0B1220&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,45:0052CC,100:07111F&height=120&section=footer" alt="footer" />
 
 </div>
