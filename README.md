@@ -11,14 +11,11 @@
 
 </div>
 
----
-
 ## Executive Profile
 
 I am a **Wireless/RF/PHY System Engineer** with **7+ years of industry and research experience** across **5G/LTE radio systems, RF/PHY algorithm specification, signal-processing simulation, massive-MIMO radio development, and wireless validation workflows**.
-My GitHub profile is organized as an **engineering portfolio**, not only a code archive. Each project is designed to show the connection between requirement analysis, algorithm design, simulation, implementation concept, validation metrics, and technical documentation.
 
-<div align="center">
+My GitHub profile is organized as an **engineering portfolio**, not only a code archive. Each project is designed to show the connection between requirement analysis, algorithm design, simulation, implementation concept, validation metrics, and technical documentation.
 
 | Core Positioning | Technical Focus |
 |---|---|
@@ -27,28 +24,29 @@ My GitHub profile is organized as an **engineering portfolio**, not only a code 
 | **Simulation & Validation** | MATLAB, Python, C/C++, BER, EVM, SINR, throughput, spectral efficiency |
 | **Research & Testbed Experience** | OpenAirInterface, LTE/5G RAN-core integration, BLE performance evaluation |
 
-</div>
 ---
-````markdown
+
 ## System-Level Wireless Engineering Workflow
 
 ```mermaid
 flowchart LR
-    A[3GPP / System Requirement] --> B[RF / PHY Architecture]
-    B --> C[Algorithm Specification]
-    C --> D[MATLAB / Python Modeling]
-    D --> E[Link-Level Simulation]
-    E --> F[Performance Metrics]
-    F --> G[C / C++ Implementation Concept]
-    G --> H[Test & Validation Workflow]
-    H --> I[Root-Cause Analysis]
-    I --> J[Requirement / Specification Update]
+    A["3GPP / System Requirement"] --> B["RF / PHY Architecture"]
+    B --> C["Algorithm Specification"]
+    C --> D["MATLAB / Python Modeling"]
+    D --> E["Link-Level Simulation"]
+    E --> F["Performance Metrics"]
+    F --> G["C / C++ Implementation Concept"]
+    G --> H["Test and Validation Workflow"]
+    H --> I["Root-Cause Analysis"]
+    I --> J["Requirement / Specification Update"]
 
-    F --> F1[BER]
-    F --> F2[EVM]
-    F --> F3[SINR]
-    F --> F4[ACLR]
-    F --> F5[Throughput]
+    F --> F1["BER"]
+    F --> F2["EVM"]
+    F --> F3["SINR"]
+    F --> F4["ACLR"]
+    F --> F5["Throughput"]
+```
+
 ---
 
 ## Professional Experience Highlights
