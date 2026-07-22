@@ -50,21 +50,21 @@ flowchart LR
 
 ## Professional Experience Highlights
 
-### Nokia Solutions and Networks Oy — Oulu, Finland
+### Nokia Solutions and Networks Oy - Oulu, Finland
 
-**Senior System Specification Engineer — RF Architecture & Specification**  
-**Apr 2023 – May 2026**
+**Senior System Specification Engineer - RF Architecture & Specification**  
+**Apr 2023 - May 2026**
 
 
-**System Specification Engineer — RF Architecture & Specification**  
+**System Specification Engineer - RF Architecture & Specification**  
 **Sep 2022 – Mar 2023**
 
-### Nokia Bell Labs Collaboration — Oulu, Finland
+### Nokia Bell Labs Collaboration - Oulu, Finland
 
 **Embedded RF Workflow / Hardware Validation Collaboration**  
-**Jul 2023 – Jun 2024**
+**Jul 2023 - Jun 2024**
 
-### Center for Wireless Communications, University of Oulu — Finland
+### Center for Wireless Communications, University of Oulu - Finland
 
 **Researcher / Research Assistant / Research Intern**
 
