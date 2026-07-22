@@ -14,7 +14,7 @@
 
 I am a **Wireless/RF/PHY System Engineer** with **7+ years of industry and research experience** across **5G/LTE radio systems, RF/PHY algorithm specification, signal-processing simulation, massive-MIMO radio development, and wireless validation workflows**.
 
-My GitHub profile is organized as an **engineering portfolio**, not only a code archive. Each project is designed to show the connection between requirement analysis, algorithm design, simulation, implementation concept, validation metrics, and technical documentation.
+My GitHub profile is organized as a technical portfolio that demonstrates my ability to translate complex wireless and RF/PHY requirements into structured, practical, and well-validated solutions. Each project presents a complete development lifecycle, covering requirement analysis, mathematical modeling, algorithm design, simulation, implementation, performance evaluation, technical interpretation, and clear documentation.
 
 | Core Positioning | Technical Focus |
 |---|---|
