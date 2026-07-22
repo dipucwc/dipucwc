@@ -352,7 +352,7 @@ I am open to opportunities in:
 ### Focused on practical RF/PHY engineering: from algorithm specification to simulation, verification, and implementation.
 
 <img src="https://img.shields.io/badge/Wireless%20Systems-5G%20NR%20%7C%206G%20%7C%20LTE-1E90FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RF%2FPHY-BF%2FBFC%20%7C%20DPD%20%7C%20MIMO--7B68EE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RF%2FPHY-BF%2FBFC%20%7C%20DPD%20%7C%20Massive--MIMO-7B68EE?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Simulation-MATLAB%20%7C%20Python%20%7C%20C%20%7C%20C%2B%2B-228B22?style=for-the-badge" />
 </div>
 ---
