@@ -150,6 +150,10 @@ flowchart LR
 | [`RF-Microwave-Circuit-Design-Portfolio`](https://github.com/dipucwc/RF-Microwave-Circuit-Design-Portfolio) | ADS, Cadence, S-parameters, matching, ACPR/EVM/IP3 | RF/microwave circuit and RF-performance engineering portfolio |
 | [`Energy-Efficiency-Evaluation-of-Bluetooth-5-BLE-5-Technology`](https://github.com/dipucwc/Energy-Efficiency-Evaluation-of-Bluetooth-5-BLE-5-Technology) | BLE 5 coded PHY, energy, PER, range | Research-based wireless evaluation with MATLAB and measurement-aligned modeling |
 | [`Multi-Connectivity-in-IoT-Network`](https://github.com/dipucwc/Multi-Connectivity-in-IoT-Network) | IoT multi-connectivity simulation | Wireless connectivity performance analysis using MATLAB/Python concepts |
+| [C-CPP-Programming-and-Algorithms](https://github.com/dipucwc/C-CPP-Programming-and-Algorithms) | C/C++ algorithms, data structures, memory management, and object-oriented programming | Software-development and problem-solving skills through structured programming projects |
+| [Arduino-Embedded-Systems-and-Automation](https://github.com/dipucwc/Arduino-Embedded-Systems-and-Automation) | Embedded control, sensors, hardware interfaces, displays, motors, and automation | Practical microcontroller programming, non-blocking control, and hardware integration |
+| [DSP-Algorithm-Design-and-Implementation](https://github.com/dipucwc/DSP-Algorithm-Design-and-Implementation) | FFT, spectrum analysis, FIR/IIR filtering, and fixed-point DSP | DSP algorithm design, numerical implementation, result analysis, and verification |
+| [Matlab-Simulink-System-Modeling-and-Testbench-Validation](https://github.com/dipucwc/Matlab-Simulink-System-Modeling-and-Testbench-Validation) | MATLAB algorithm simulation, Simulink system modeling, and testbench validation | Model-based design, subsystem integration, testbench development, and performance verification |
 
 </div>
 
@@ -167,6 +171,10 @@ flowchart LR
 | [Wireless System Simulation & Validation](https://github.com/dipucwc/wireless-system-simulation-validation) | Simulation validation | Beam sweeping, beam selection, wireless testing workflow | MATLAB, Python | Simulation cases and analysis |
 | [BLE Energy Efficiency Evaluation](https://github.com/dipucwc/Energy-Efficiency-Evaluation-of-Bluetooth-5-BLE-5-Technology) | BLE / IoT | PER, range, energy, channel models | MATLAB | Thesis-related evaluation |
 | [Multi-Connectivity in IoT Network](https://github.com/dipucwc/Multi-Connectivity-in-IoT-Network) | IoT connectivity | Throughput, latency, packet loss, reliability | MATLAB / Python | Performance evaluation |
+| [C/C++ Programming and Algorithms](https://github.com/dipucwc/C-CPP-Programming-and-Algorithms) | Software development | Algorithms, data structures, memory management, object-oriented programming | C, C++ | Programming projects and algorithm implementations |
+| [Arduino Embedded Systems and Automation](https://github.com/dipucwc/Arduino-Embedded-Systems-and-Automation) | Embedded systems | Sensor acquisition, hardware interfaces, motor control, displays, automation | Arduino, Embedded C/C++ | Embedded control and automation projects |
+| [DSP Algorithm Design and Implementation](https://github.com/dipucwc/DSP-Algorithm-Design-and-Implementation) | Digital signal processing | FFT, spectrum analysis, FIR/IIR filtering, fixed-point processing | MATLAB, Python | DSP models, analysis, and verification |
+| [MATLAB and Simulink System Modeling and Testbench Validation](https://github.com/dipucwc/Matlab-Simulink-System-Modeling-and-Testbench-Validation) | System modeling and validation | Algorithm simulation, Simulink testbench design, subsystem integration, performance verification | MATLAB, Simulink | Simulation models, testbenches, and validation results |
 
 ---
 
