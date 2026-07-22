@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-moklesur.eee%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moklesur.eee@gmail.com)
 [![Location](https://img.shields.io/badge/Oulu-Finland-00A3FF?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-<h3>Wireless/RF/PHY System Engineer | 5G NR & 6G | Massive MIMO | Beamforming/BF Calibration | MATLAB · Python · C/C++</h3>
+<h3>Wireless/RF/PHY System Engineer | 5G NR & 6G | Massive MIMO | BF/BF Calibration | MATLAB · Python · C/C++</h3>
 
 </div>
 
