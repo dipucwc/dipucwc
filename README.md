@@ -57,7 +57,7 @@ flowchart LR
 
 
 **System Specification Engineer - RF Architecture & Specification**  
-**Sep 2022 – Mar 2023**
+**Sep 2022 - Mar 2023**
 
 ### Nokia Bell Labs Collaboration - Oulu, Finland
 
