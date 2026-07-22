@@ -1,7 +1,5 @@
 <div align="center">
-
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0052CC,100:00C2FF&height=245&section=header&text=Md%20Moklesur%20Rahman&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=5G%20NR%20%7C%206G%20Wireless%20Systems%20%7C%20RF%2FPHY%20Algorithms%20%7C%20MIMO-OFDM%20%7C%20Beamforming%20Calibration&descSize=15&descAlignY=56" alt="Md Moklesur Rahman GitHub profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0052CC,100:00C2FF&height=245&section=header&text=Md%20Moklesur%20Rahman&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=5G%20NR%20%7C%206G%20Wireless%20Systems%20%7C%20RF%2FPHY%20Algorithms%20%7C%20MIMO-OFDM%20%7C%20Beamforming%2FBF%20Calibration&descSize=15&descAlignY=56" alt="Md Moklesur Rahman GitHub profile banner" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Moklesur%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-moklesur-rahman-65a63962/)
 [![GitHub](https://img.shields.io/badge/GitHub-dipucwc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipucwc)
